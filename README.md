@@ -8,7 +8,7 @@ Ajoutez Osmose Icons à votre fichier `pubspec.yaml` :
 
 ```yaml
 dependencies:
-  osmose_icons: ^1.0.0
+  osmose_icons: ^0.0.1
 ```
 
 Exécutez la commande suivante pour installer le package :

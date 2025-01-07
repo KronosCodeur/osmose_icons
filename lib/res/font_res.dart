@@ -7,6 +7,6 @@ class FontRes {
   FontRes._();
 
   static const String PLUGIN_NAME = 'osmose';
-  static const String PLUGIN_VERSION = '1.0.0';
+  static const String PLUGIN_VERSION = '0.0.1';
   static const String ICOMOON = 'icomoon';
 }
