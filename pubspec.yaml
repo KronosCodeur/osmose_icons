@@ -26,6 +26,7 @@ flutter:
       fonts:
         - asset: assets/fonts/icomoon.ttf
 
+
   # To add assets to your package, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
